@@ -33,7 +33,7 @@
     </context-param>
     <context-param>
         <param-name>emailPass</param-name>
-        <param-value>life1996</param-value>
+        <param-value>11111111</param-value>
     </context-param>
 
     <servlet>
